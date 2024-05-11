@@ -2,6 +2,8 @@
 
 Este é um chatbot simples de segurança da informação construído com a API Gemini do Google. Ele fornece informações básicas sobre segurança digital e dicas de proteção para usuários não técnicos.
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Guilherme403/chatbot-seguranca/blob/main/LICENSE) 
+
 ## Funcionalidades:
 
 - Responde perguntas sobre segurança da informação.
